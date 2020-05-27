@@ -1,0 +1,10 @@
+body{
+background-color:beige;
+text-align:center;
+}
+a{
+	color:blue;
+}
+a:hover{
+	color:red;
+}
